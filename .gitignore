@@ -4,3 +4,4 @@ dist
 *.local
 reference_orig.mp4
 reference_vp9.mp4
+.vercel
